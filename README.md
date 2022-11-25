@@ -4,3 +4,4 @@
 1. Next.js13 install: yarn create next-app --experimental-app .
 2. Auth0 SDK install: yarn add @auth0/nextjs-auth0
 3. .env.localを設定
+4. `/pages/api/auth/[...auth0].ts`にhandleAuth()を設置
