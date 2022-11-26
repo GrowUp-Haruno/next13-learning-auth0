@@ -119,6 +119,10 @@
   margin-left: 0.5rem;
 }
 
+.avatar {
+  border-radius: 50%;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
